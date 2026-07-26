@@ -1,0 +1,7 @@
+Minhas linguagens favoritas
+
+Python é minha linguagem favorita porque gosto de utilizá-la para automação, tratamento de dados e desenvolvimento de soluções.
+
+Também gosto de SQL, principalmente para trabalhar com bancos de dados, fazer consultas e analisar informações.
+
+Tenho interesse em conhecer outras linguagens e tecnologias, mas atualmente Python e SQL são as que mais fazem parte dos meus estudos e projetos.
